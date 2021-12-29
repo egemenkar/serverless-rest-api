@@ -1,10 +1,11 @@
 # Serverless REST API with Node.js, TypeScript, and AWS DynamoDB
 
-This repository has been created by Egemen Kar following this YouTube Video:
-[How to Build a Serverless REST API with Node.js, TypeScript, and AWS DynamoDB](https://youtu.be/yEJW4V7ddEQ)
+by Egemen Kar 
 
 It is an implementation of a simple CRUD Product REST API in Node.js and TypeScript with Serverless Framework Infrastructure as a Code
 to easily deploy it to AWS.
+
+I've follow this [YouTube Video](https://youtu.be/yEJW4V7ddEQ) while creating this repo.
 
 ## Prerequisites
 
